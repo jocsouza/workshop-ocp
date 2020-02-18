@@ -1,2 +1,2 @@
 # workshop-ocp
-Workshop OpenShift
+Workshop OpenShift - 18/02/2020
